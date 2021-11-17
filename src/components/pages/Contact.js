@@ -4,7 +4,7 @@ const Contact = () => {
   return (<>
     <div className="container">
       <Link
-        to={{ pathname: "https://mailto:throbaclabs@gmail.com" }}
+        to={{ pathname: "mailto:throbaclabs@gmail.com" }}
         style={{ color: 'white', fontFamily: 'Sukhumvit Set', fontSize: 40 }}
         target="_blank">
         team@throbaclabs.io
